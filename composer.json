@@ -15,19 +15,12 @@
         "issues": "https://github.com/mohtasmsawilh/mgp25/issues",
         "wiki": "https://github.com/mohtasmsawilh/mgp25/wiki",
         "source": "https://github.com/mohtasmsawilh/mgp25/"
-    },
-    "authors": [
-        {
-            "name": "mgp25",
-            "email": "me@mgp25.com",
-            "role": "Founder"
-        },
-        {
-            "name": "SteveJobzniak",
-            "homepage": "https://github.com/SteveJobzniak",
-            "role": "Developer"
-        }
-    ],
+    },"repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/mohtasmsawilh/mgp25.git"
+    }
+  ],
     "autoload": {
         "psr-4": {
             "InstagramAPI\\": "src/"
