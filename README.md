@@ -2,7 +2,7 @@
 
 This is a PHP library which emulates Instagram's Private API. This library is packed full with almost all the features from the Instagram Android App. This includes media uploads, direct messaging, stories and more.
 
-**Read the [wiki](https://github.com/mgp25/Instagram-API/wiki)** and previous issues before opening a new one! Maybe your issue has already been answered.
+**Read the [wiki](https://github.com/mohtasmsawilh/mgp25/wiki)** and previous issues before opening a new one! Maybe your issue has already been answered.
 
 **Frequently Asked Questions:** [F.A.Q.](https://github.com/mgp25/Instagram-API/wiki/FAQ)
 
@@ -28,14 +28,14 @@ This is a PHP library which emulates Instagram's Private API. This library is pa
 
 ### Dependencies
 
-Install/enable the required php extensions and dependencies. You can learn how to do so [here](https://github.com/mgp25/Instagram-API/wiki/Dependencies).
+Install/enable the required php extensions and dependencies. You can learn how to do so [here](https://github.com/mohtasmsawilh/mgp25/wiki/Dependencies).
 
 ### Install this library
 We use composer to distribute our code effectively and easily. If you do not already have composer installed, you can download and install it here [here](https://getcomposer.org/download/).
 
 Once you have composer installed, you can do the following:
 ```sh
-composer require mgp25/instagram-php
+composer require mohtasmsawilh/mgp25
 ```
 
 ```php
